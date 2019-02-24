@@ -1,6 +1,6 @@
 var friends = [
     {
-      name: "andrew",
+      name: "shawn",
       photo: "test@example.com",
       scores: [
           "1",
@@ -9,8 +9,8 @@ var friends = [
           "5",
           "2",
           "1",
-          "3",
-          "7",
+          "4",
+          "2",
           "5",
           "2"
         ]
